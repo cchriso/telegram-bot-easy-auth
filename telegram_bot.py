@@ -11,8 +11,8 @@ for val in file.read().split():
     admins.append(int(val))
 file.close()
 
-help_txt = "Here you have to write all of your commands "
-welcome_message = "Willkommen zum Gratis McDonalds Bot!\n/help for further guidance"
+help_txt = "Here you have to write all of your commands"
+welcome_message = "Welcome to your Bot!\n/help for further guidance"
 command_error = "Error! Please provide a valid command, a list of all commands will be provided with /help"
 request = "Your request for using this bot was sent to all admins, when they approved you, you will be notified!"
 admin_approval_form = "There is a new request for using the bot"
