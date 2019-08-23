@@ -1,5 +1,6 @@
 # telegram-bot-easy-auth
-This is a basic authentication system for telegram bots written in python and the help of the pyTelegramBotAPI
+This is a basic authentication system for telegram bots written in python and the help of https://python-telegram-bot.org/
+you have to install https://python-telegram-bot.org/ this pip
 
 just insert your token from your bot and start using the auth system!
 
